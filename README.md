@@ -12,6 +12,7 @@ In the terminal run:
  	- To manually send out the 'New blog posts' email use console command php artisan new-blog-posts
 	- For the email to be sent at 6pm daily set up a cron job in terminal using crontab -e 
  	- then cd /path-to-your-project && php artisan schedule:run >> /dev/null 2>&1
+    - For admin access username is admin@admin.com and password admin
 
  	
 
